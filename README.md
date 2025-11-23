@@ -1,6 +1,3 @@
-coupon-system/
-yaml
-
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-16%2B-brightgreen" alt="Node.js 16+" />
   <img src="https://img.shields.io/badge/Express.js-API-blue" alt="Express.js" />
