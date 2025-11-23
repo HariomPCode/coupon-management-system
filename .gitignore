@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+dist/
+build/
+
+# Coverage directory used by testing tools
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code files
+.vscode/
+
+# Optional: OS specific
+*.swp
+*.swo
+
+# Jest cache
+jest-cache/
+jest/
+
+# Cache folders
+.cache/
+.temp/
+
+# Render/Deployment cache
+.vercel/
+.netlify/
+
+# Local temp files
+*.tmp
+
+# Backup files
+*~
+*.bak
